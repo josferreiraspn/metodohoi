@@ -949,9 +949,12 @@ section.lazy-placeholder:after {
 .cid-s3Ohr2fnfc .mbr-al-i-c {
   align-items: center;
 }
+.cid-s3Ohr2fnfc .mbr-section-title {
+  color: #ff0000;
+}
 .cid-s3NAc3zgYP {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #f9f9f9;
 }
 .cid-s3NAc3zgYP .mbr-section-btn > * {
